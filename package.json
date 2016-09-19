@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "recorderjs",
+      "e:\\Projects\\trainTongue"
+    ]
+  ],
+  "_from": "recorderjs@latest",
+  "_id": "recorderjs@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/recorderjs",
+  "_npmUser": {
+    "email": "jergason@gmail.com",
+    "name": "jergason"
+  },
+  "_npmVersion": "1.4.23",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "recorderjs",
+    "raw": "recorderjs",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/recorderjs/-/recorderjs-1.0.1.tgz",
+  "_shasum": "f8211a0f90bdcdcfa2f431a597b6cb94a1b93571",
+  "_shrinkwrap": null,
+  "_spec": "recorderjs",
+  "_where": "e:\\Projects\\trainTongue",
+  "author": {
+    "email": "jergason@gmail.com",
+    "name": "Jamison Dance",
+    "url": "http://jamisondance.com"
+  },
+  "browserify": {
+    "transform": "workerify"
+  },
+  "bugs": {
+    "url": "https://github.com/jergason/Recorderjs/issues"
+  },
+  "dependencies": {},
+  "description": "Record audio from a node in the Web Audio API",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f8211a0f90bdcdcfa2f431a597b6cb94a1b93571",
+    "tarball": "https://registry.npmjs.org/recorderjs/-/recorderjs-1.0.1.tgz"
+  },
+  "gitHead": "6462464e4c7f1d600ff5528a114462085206443c",
+  "homepage": "https://github.com/jergason/Recorderjs",
+  "keywords": [
+    "web-audio-api",
+    "record",
+    "browserify"
+  ],
+  "license": "MIT",
+  "main": "recorder.js",
+  "maintainers": [
+    {
+      "email": "jergason@gmail.com",
+      "name": "jergason"
+    }
+  ],
+  "name": "recorderjs",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "browserify": "^5.11.1",
+    "workerify": "^0.3.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jergason/Recorderjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Everything is fine\""
+  },
+  "version": "1.0.1"
+}

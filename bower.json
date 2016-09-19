@@ -1,0 +1,22 @@
+{
+  "name": "recorderjs-google",
+  "description": "Record audio from a node in the Web Audio API",
+  "main": "recorder.js",
+  "authors": [
+    "Jamison Dance"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web-audio-api",
+    "record",
+    "browserify"
+  ],
+  "homepage": "https://github.com/jergason/Recorderjs/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
